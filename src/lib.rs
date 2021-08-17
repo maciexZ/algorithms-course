@@ -1,1 +1,1 @@
-pub mod algorithms;
+pub mod divide_and_conquer;
