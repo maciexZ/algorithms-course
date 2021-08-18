@@ -1,5 +1,3 @@
-
-
 /*
 karatsuba algorithm 
 
